@@ -2,5 +2,5 @@
 
 
 cp /etc/passwd /tmp
-mkdir /tmp/pipeline_`date +%H:%M:%S`
+mkdir /tmp/yogeshpipeline_`date +%H:%M:%S`
 
