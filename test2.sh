@@ -2,5 +2,5 @@
 
 
 cp /etc/passwd /tmp
-mkdir /tmp/yogesh_`date +%H:%M:%S`
+mkdir /tmp/yogeshtash_`date +%H:%M:%S`
 
